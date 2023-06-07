@@ -1,0 +1,21 @@
+body {
+    background: #f1f5f9;
+}
+
+.myButton {
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    background: #facc15;
+    cursor: pointer;
+}
+
+/* .p{
+    padding: 10px;
+    font-size: 16px;
+    min-width: 200px;
+    width: 500px;
+    box-shadow: 0px,7px,29px,0px;
+} */
